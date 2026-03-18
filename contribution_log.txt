@@ -1,1 +1,1 @@
-Commit on 2025-06-12T18:28:15Z: Add support for new hyperparameters
+Commit on 2025-09-01T16:29:14Z: Improve logging and error handling
