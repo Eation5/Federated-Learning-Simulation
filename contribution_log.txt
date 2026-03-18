@@ -1,1 +1,1 @@
-Commit on 2025-11-21T15:44:50Z: Add support for new hyperparameters
+Commit on 2025-11-21T17:20:44Z: Update README with new benchmark results
