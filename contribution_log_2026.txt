@@ -1,1 +1,1 @@
-Commit on 2026-02-06T13:09:30Z: Fix edge cases in federated learning simulation
+Commit on 2026-03-03T09:04:43Z: Update README with latest research findings
