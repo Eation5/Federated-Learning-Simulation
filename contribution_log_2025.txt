@@ -1,1 +1,1 @@
-Commit on 2025-05-20T10:28:04Z: Adjust learning rate decay schedule
+Commit on 2025-05-20T20:10:32Z: Update documentation with new API endpoints
