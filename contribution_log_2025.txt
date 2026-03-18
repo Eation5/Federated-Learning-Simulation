@@ -1,1 +1,1 @@
-Commit on 2025-05-08T15:32:53Z: Adjust learning rate decay schedule
+Commit on 2025-05-08T18:54:52Z: Update hyperparameter tuning scripts for 2025 benchmarks
