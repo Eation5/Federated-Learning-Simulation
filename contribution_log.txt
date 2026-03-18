@@ -1,1 +1,1 @@
-Commit on 2025-01-21T13:45:10Z: Fix minor bugs in model evaluation
+Commit on 2025-06-16T13:13:55Z: Update README with new benchmark results
