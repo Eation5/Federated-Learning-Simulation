@@ -1,1 +1,1 @@
-Commit on 2025-07-17T16:08:43Z: Update README with new benchmark results
+Commit on 2025-07-17T20:38:39Z: Update documentation and usage examples
